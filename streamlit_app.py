@@ -25,7 +25,6 @@ st.header('What does ____ do?')
 st.markdown('The ____ is able to start up a conversation with the user and provide motivational support when needed.')
 
 
-r = sr.Recognizer()
 
 
 
