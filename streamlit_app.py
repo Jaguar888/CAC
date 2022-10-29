@@ -17,7 +17,7 @@ st.set_page_config(
 
 st.title("(name not decided)")
 st.caption('Sid Singh; Congressional App Challenge')
-st.header('Data')
-st.markdown('Taken from the UCI Machine Learning Repository\nhttps://archive.ics.uci.edu/ml/datasets/Parkinsons+Telemonitoring')
+st.header('What does ____ do?')
+st.markdown('The ____ is able to start up a conversation with the user and provide motivational support when needed.')
 
 
