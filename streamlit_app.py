@@ -9,7 +9,7 @@ from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 import speech_recognition as sr
 import pyttsx3
 import pyaudio
-import nltk
+
 
 
 
