@@ -17,7 +17,7 @@ st.set_page_config(
     page_title='(name not decided)',
 )
 
-st.title("Parkinson's UPDRS Score Predictor")
+st.title("(name not decided)")
 st.caption('Sid Singh; Congressional App Challenge')
 
 
